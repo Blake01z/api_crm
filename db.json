@@ -13,7 +13,7 @@
       "empresa": "Mario",
       "email": "correo@correo.com",
       "telefono": "323432",
-      "notas": "Quiere galletas",
+      "notas": "Quiere galletas Marias",
       "id": 2
     },
     {
@@ -21,7 +21,7 @@
       "empresa": "make up",
       "email": "correo@correo.com",
       "telefono": "234234",
-      "notas": "Quiere mas brochas",
+      "notas": "Quiere mas brochas nuevas",
       "id": 3
     }
   ]
