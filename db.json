@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Daniel",
+      "empresa": "Blake",
+      "email": "correo@correo.com",
+      "telefono": "23234253",
+      "notas": "Quiere hacer mucho pedidos",
+      "id": 1
+    },
+    {
+      "nombre": "Tayson",
+      "empresa": "Mario",
+      "email": "correo@correo.com",
+      "telefono": "323432",
+      "notas": "Quiere galletas",
+      "id": 2
+    },
+    {
+      "nombre": "scarlet",
+      "empresa": "makeuo",
+      "email": "correo@correo.com",
+      "telefono": "234234",
+      "notas": "Quiere mas brochas",
+      "id": 3
+    }
+  ]
+}
