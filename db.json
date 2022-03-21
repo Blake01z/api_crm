@@ -23,22 +23,6 @@
       "telefono": "234234",
       "notas": "Quiere mas brochas",
       "id": 3
-    },
-    {
-      "nombre": "Blake",
-      "empresa": "otra empresa",
-      "email": "correo@correo.com",
-      "telefono": "3123123",
-      "notas": "Otros requerimientos",
-      "id": 4
-    },
-    {
-      "nombre": "Mi nuevo cliente",
-      "empresa": "Mi nueva",
-      "email": "correo@correo.com",
-      "telefono": "23432534",
-      "notas": "mi nueva empresa",
-      "id": 5
     }
   ]
 }
