@@ -7,7 +7,7 @@ import VerCliente from './paginas/VerCliente'
 
 function App() {
   
-  console.log(import.meta.env.VITE_API_URL)
+  // console.log(import.meta.env.VITE_API_URL)
 
   return (
     <BrowserRouter>
